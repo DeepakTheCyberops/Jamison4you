@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on git, linux privilege escalation, .
+- 🔭 I’m currently working on git, linux privilege escalation.
 - 🌱 I’m currently learning c programming languages
 
 
